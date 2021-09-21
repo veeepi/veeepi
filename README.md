@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @veeepi
+- 👋 Hi, I’m @veeepi. 
+- 🎨 Here's my portfolio application: https://vladfolio.web.app/ 
 - 👀 I’m interested in ... automating eeeeeverything!!!1!1 (beatifully)
 - 🌱 I’m currently learning ... React, ASP.NET Core and everything in between.
 - 💞️ I’m looking to collaborate on ... cool projects with real-world use cases.
